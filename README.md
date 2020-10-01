@@ -1,4 +1,4 @@
-# newww
+# new2020
 
 [![Build Status](https://travis-ci.org/npm/newww.svg)](https://travis-ci.org/npm/newww)
 
